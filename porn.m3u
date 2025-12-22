@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Avatar" tvg-logo="https://example.com/logo/avatar.jpg" group-title="Movies",Avatar (2009)
+#EXTINF:-1 tvg-name="Avatar" tvg-logo="https://fourhoi.com/adn-652-english-subtitle/cover-t.jpg" group-title="Movies",Avatar (2009)
 https://example.com/stream/avatar.m3u8
 
 #EXTINF:-1 tvg-name="Avengers Endgame" tvg-logo="https://example.com/logo/endgame.jpg" group-title="Action Movies",Avengers Endgame
@@ -29,3 +29,4 @@ https://example.com/stream/onlymom.m3u8
 
 #EXTINF:-1 tvg-name="Mudras Calling" tvg-logo="https://example.com/logo/mudras.jpg" group-title="Myanmar Movies",Mudras Calling (Myanmar)
 https://example.com/stream/mudras.m3u8
+
