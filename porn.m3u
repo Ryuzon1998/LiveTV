@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Avatar" tvg-logo="https://example.com/logo/avatar.jpg" group-title="Movies",Avatar (2009)
+https://example.com/stream/avatar.m3u8
+
+#EXTINF:-1 tvg-name="Avengers Endgame" tvg-logo="https://example.com/logo/endgame.jpg" group-title="Action Movies",Avengers Endgame
+https://example.com/stream/endgame.m3u8
+
+#EXTINF:-1 tvg-name="Titanic" tvg-logo="https://example.com/logo/titanic.jpg" group-title="Romance Movies",Titanic
+https://example.com/stream/titanic.m3u8
+
+#EXTINF:-1 tvg-name="Joker" tvg-logo="https://example.com/logo/joker.jpg" group-title="Drama Movies",Joker
+https://example.com/stream/joker.m3u8
+
+#EXTINF:-1 tvg-name="Fast & Furious 9" tvg-logo="https://example.com/logo/ff9.jpg" group-title="Action Movies",Fast & Furious 9
+https://example.com/stream/ff9.m3u8
+
+#EXTINF:-1 tvg-name="The Conjuring" tvg-logo="https://example.com/logo/conjuring.jpg" group-title="Horror Movies",The Conjuring
+https://example.com/stream/conjuring.m3u8
+
+#EXTINF:-1 tvg-name="Interstellar" tvg-logo="https://example.com/logo/interstellar.jpg" group-title="Sci-Fi Movies",Interstellar
+https://example.com/stream/interstellar.m3u8
+
+#EXTINF:-1 tvg-name="Spider-Man No Way Home" tvg-logo="https://example.com/logo/spiderman.jpg" group-title="Superhero Movies",Spider-Man No Way Home
+https://example.com/stream/spiderman.m3u8
+
+#EXTINF:-1 tvg-name="The Only Mom" tvg-logo="https://example.com/logo/onlymom.jpg" group-title="Myanmar Movies",The Only Mom (Myanmar)
+https://example.com/stream/onlymom.m3u8
+
+#EXTINF:-1 tvg-name="Mudras Calling" tvg-logo="https://example.com/logo/mudras.jpg" group-title="Myanmar Movies",Mudras Calling (Myanmar)
+https://example.com/stream/mudras.m3u8
